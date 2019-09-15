@@ -145,7 +145,7 @@
                     responsive: this.responsive
                 },
 
-                // Флаг назатия мыши
+                // Флаг нажатия мыши
                 mouseDown: false,
                 
                 // Дистанция для свайпа
